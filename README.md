@@ -29,3 +29,6 @@ The `test_project.py` file contains unit tests for the functions implemented in 
 
 - **Error Handling**: Error handling is implemented to handle file related errors, such as file not found errors when reading task data from a file.
 
+![Screenshot (304)](https://github.com/sherscripts/TaskTracker/assets/93700487/48b993f6-ae02-4e9b-be7e-09c342163e02)
+  
+
